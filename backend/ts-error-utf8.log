@@ -1,0 +1,2 @@
+﻿src/controllers/taskController.ts(161,49): error TS2322: Type '"IN_PROGRESS"' is not assignable to type '"PENDING"'.
+src/controllers/taskController.ts(162,58): error TS2322: Type '"COMPLETED"' is not assignable to type '"PENDING"'.
