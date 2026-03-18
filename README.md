@@ -4,9 +4,10 @@ A modern, responsive, and robust full-stack Task Management application designed
 
 ![Dashboard Screenshot](/docs/dashboard-placeholder.png)
 
-## Live Deployment
-- **Frontend (Vercel)**: [https://task-management-system-git-main-arnavs-projects-73e5cd9a.vercel.app](https://task-management-system-git-main-arnavs-projects-73e5cd9a.vercel.app)
-- **Backend (Render)**: [https://task-management-system-1-pj68.onrender.com](https://task-management-system-1-pj68.onrender.com)
+## 🌐 Live Application
+**[Click here to view the live project!](https://task-management-system-git-main-arnavs-projects-73e5cd9a.vercel.app)**
+
+*(Note: The application is powered by a separated backend API hosted on [Render](https://task-management-system-1-pj68.onrender.com))*
 
 ---
 
