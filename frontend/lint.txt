@@ -1,0 +1,26 @@
+
+> frontend@0.1.0 lint
+> next lint
+
+
+./app/(auth)/login/page.tsx
+54:21  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+110:16  Error: `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`.  react/no-unescaped-entities
+
+./app/(auth)/register/page.tsx
+71:21  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+./app/dashboard/page.tsx
+110:19  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+146:19  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+152:60  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+170:14  Error: 'err' is defined but never used.  @typescript-eslint/no-unused-vars
+224:64  Error: `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`.  react/no-unescaped-entities
+
+./components/TaskFormModal.tsx
+127:21  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+144:113  Error: `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`.  react/no-unescaped-entities
+172:38  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+190:38  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/basic-features/eslint#disabling-rules

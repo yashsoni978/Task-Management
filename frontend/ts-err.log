@@ -1,0 +1,4 @@
+﻿app/dashboard/page.tsx(204,39): error TS2322: Type '(newStatus: string) => void' is not assignable to type '(value: string | null, eventDetails: SelectRootChangeEventDetails) => void'.
+  Types of parameters 'newStatus' and 'value' are incompatible.
+    Type 'string | null' is not assignable to type 'string'.
+      Type 'null' is not assignable to type 'string'.
