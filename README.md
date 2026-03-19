@@ -2,8 +2,6 @@
 
 A modern, responsive, and robust full-stack Task Management application designed for productivity. Built meticulously using a powerful monorepo architecture. 
 
-![Dashboard Screenshot](/docs/dashboard-placeholder.png)
-
 ## 🌐 Live Application
 [**Click here to view the live project!**](https://task-management-system-git-main-arnavs-projects-73e5cd9a.vercel.app)
 
@@ -98,4 +96,4 @@ All `/tasks` and `/auth/me` endpoints require a valid JWT Access Token passed in
 | **PATCH**| `/tasks/:id/toggle` | Yes | Cyclically toggle a task's status between states |
 
 ---
-*Generated as part of the Phase 6 development cycle.*
+ 
