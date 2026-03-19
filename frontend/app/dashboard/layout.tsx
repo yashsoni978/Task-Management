@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useAuth } from "@/lib/AuthContext";
+import { useAuth } from "@/providers/AuthContext";
 import { Button } from "@/components/ui/button";
 import {
   Sheet,

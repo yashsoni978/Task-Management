@@ -4,7 +4,7 @@ import "./globals.css";
 import { Inter } from "next/font/google";
 import { cn } from "@/lib/utils";
 import { Toaster } from "@/components/ui/sonner";
-import { AuthContextProvider } from "@/lib/AuthContext";
+import { AuthContextProvider } from "@/providers/AuthContext";
 
 const geist = Inter({ subsets: ['latin'], variable: '--font-sans' });
 
