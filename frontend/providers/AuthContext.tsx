@@ -2,8 +2,8 @@
 
 import React, { createContext, useContext, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import api from "./api";
-import { clearTokens, getAccessToken } from "./auth";
+import api from "@/lib/api";
+import { clearTokens, getAccessToken } from "@/lib/auth";
 
 interface User {
   id: string;
