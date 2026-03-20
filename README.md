@@ -3,7 +3,7 @@
 A modern, responsive, and robust full-stack Task Management application designed for productivity. Built meticulously using a powerful monorepo architecture. 
 
 ## 🌐 Live Application
-[**Click here to view the live project!**](https://task-management-system-git-main-arnavs-projects-73e5cd9a.vercel.app)
+[**Click here to view the live project!**](https://task-management-omega-navy.vercel.app/)
 
 ---
 
@@ -50,7 +50,7 @@ This implementation goes beyond the basic requirements to include several profes
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Arnav-1456/Task-Management-System.git
+git clone https://github.com/yashsoni978/Task-Management.git
 cd Task-Management-System
 ```
 
