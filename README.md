@@ -3,7 +3,7 @@
 A modern, responsive, and robust full-stack Task Management application designed for productivity. Built meticulously using a powerful monorepo architecture. 
 
 ## 🌐 Live Application
-[**Click here to view the live project!**](https://task-management-omega-navy.vercel.app)
+[**Click here to view the live project!**](https://task-management-omega-navy.vercel.app/dashboard)
 
 ---
 
